@@ -1,0 +1,18 @@
+
+# Inore all emacs_temp_file
+*~
+
+*#
+
+*DS_Store
+
+*.log
+
+*gitkeep
+
+.ruby-version
+.sass-cache
+settings_local.yml
+*cakephp_apps/online/vendors/shells/configs.php
+*cakephp_apps/online/vendors/shells/core.php
+*cakephp_apps/online/vendors/shells/database.php
