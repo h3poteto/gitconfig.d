@@ -1,0 +1,16 @@
+[color]
+	ui = true
+
+[alias]
+	a = "add"
+	b = "branch"
+	c = "commit"
+	ch = "checkout"
+	d = "diff"
+	l = "log"
+	m = "master"
+	o = "origin"
+	r = "rebase"
+	s = "status"
+	p = "pull"
+	tr = "log --graph"
