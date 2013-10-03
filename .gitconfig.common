@@ -9,7 +9,7 @@
 	d = "diff"
 	l = "log"
 	me = "merge"
-	rb = "rebase master"
+	rb = "rebase"
 	re = "reset"
 	s = "status"
 	sh = "stash"
