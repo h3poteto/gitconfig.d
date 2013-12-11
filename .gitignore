@@ -8,7 +8,7 @@
 
 *.log
 
-*gitkeep
+*.gitkeep
 
 .vagrant
 Vagrantfile

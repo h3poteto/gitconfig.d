@@ -17,3 +17,4 @@
 	ps = "push"
 	tr = "log --graph"
 	rl = "reflog"
+	fl = "log --follow -p"
