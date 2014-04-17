@@ -22,3 +22,6 @@ settings_local.yml
 
 public/uploads/
 uploads/
+
+vendor/bundle
+vendor/bundler
