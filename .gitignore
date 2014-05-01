@@ -25,3 +25,5 @@ uploads/
 
 vendor/bundle
 vendor/bundler
+
+unicorn.rb
