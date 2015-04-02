@@ -13,7 +13,6 @@
 .vagrant
 Vagrantfile
 
-.ruby-version
 .sass-cache
 settings_local.yml
 *cakephp_apps/online/vendors/shells/configs.php
@@ -25,5 +24,3 @@ uploads/
 
 vendor/bundle
 vendor/bundler
-
-unicorn.rb
