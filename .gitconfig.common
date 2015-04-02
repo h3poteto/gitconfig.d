@@ -20,3 +20,5 @@
 	fl = "log --follow -p"
 [diff]
         renames = copies
+[push]
+	default = simple
