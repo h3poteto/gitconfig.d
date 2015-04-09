@@ -1,5 +1,6 @@
 [color]
 	ui = true
+        editor = emacs
 
 [alias]
 	a = "add"
