@@ -22,5 +22,10 @@ settings_local.yml
 public/uploads/
 uploads/
 
-vendor/bundle
+*vendor/bundle
 vendor/bundler
+
+.bundle*
+gemfiles/vendor*
+
+Gemfile.local*
