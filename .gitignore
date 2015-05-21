@@ -29,3 +29,5 @@ vendor/bundler
 gemfiles/vendor*
 
 Gemfile.local*
+
+.envrc
