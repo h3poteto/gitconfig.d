@@ -31,3 +31,4 @@ gemfiles/vendor*
 Gemfile.local*
 
 .envrc
+my-docker
