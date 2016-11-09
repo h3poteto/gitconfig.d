@@ -1,6 +1,6 @@
 [color]
 	ui = true
-        editor = emacs
+	editor = emacs
 
 [alias]
 	a = "add"
@@ -20,6 +20,6 @@
 	rl = "reflog"
 	fl = "log --follow -p"
 [diff]
-        renames = copies
+	renames = copies
 [push]
 	default = simple
