@@ -32,3 +32,6 @@ Gemfile.local*
 
 .envrc
 my-docker
+
+.ensime
+.ensime_cache
