@@ -1,2 +1,0 @@
-=== gitconfig.d
-個人的なgitのエイリアス設定とignoire設定です。
