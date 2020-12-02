@@ -6,6 +6,7 @@
 	a = "add"
 	b = "branch"
 	c = "commit -m"
+	cs = "commit --signoff -m"
 	ch = "checkout"
 	d = "diff"
 	l = "log"
